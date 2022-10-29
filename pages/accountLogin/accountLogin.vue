@@ -9,7 +9,6 @@
 		<view class="another-login">
 			<text class="anthor-login-text">其他登录方式</text>
 			<image src="../../static/wechat.svg" class="login-logo" mode="widthFix" @click="wechatLogin()"></image>
-			<image src="../../static/QQ .svg" class="login-logo" mode="widthFix" ></image>
 		</view>
 	</view>
 </template>
